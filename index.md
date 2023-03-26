@@ -14,6 +14,6 @@ Thank you for visiting our GitHub page, and we look forward to working with you!
 
 
 
-[Visual Navigation Internship ](/projects/Visual-Navigation-Internship/about.md)
+[Visual Navigation Internship ](/projects/Visual-Navigation-Internship/index.html)
 
 
